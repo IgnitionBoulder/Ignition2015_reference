@@ -9,7 +9,7 @@
 * debug any errors you get from the `git push` command  
 
 
-#### to deploy  
+#### to deploy a non-master branch to heroku
 
 Same as [deploy master branch to heroku] except the last command is:
 
